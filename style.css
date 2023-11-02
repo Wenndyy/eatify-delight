@@ -10,7 +10,7 @@ html{
 .container{
     max-width: 500px;
     margin: 0 auto;
-    height: 300vh; 
+    height: 150vh; 
     background-color: #C9955C;
     background-position: center;
     background-size: cover;
@@ -85,6 +85,6 @@ html{
 
 @media(max-width:567px){
     .container{
-        height: 100%;
+        height: 200vh;
     }
 }
