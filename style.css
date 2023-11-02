@@ -85,6 +85,6 @@ html{
 
 @media(max-width:567px){
     .container{
-        height: auto;
+        height: 100%;
     }
 }
