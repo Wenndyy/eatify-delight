@@ -10,7 +10,7 @@ html{
 .container{
     max-width: 500px;
     margin: 0 auto;
-    height: 500vh; 
+    height: auto; 
     background-color: #C9955C;
     background-position: center;
     background-size: cover;
